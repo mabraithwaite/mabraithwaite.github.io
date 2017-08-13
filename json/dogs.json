@@ -1,0 +1,599 @@
+{
+  "dogs": [
+    {
+      "shCode": "2017-33518",
+      "image": "http://www.cachehumane.org/data/pics/2017-33518_th.jpg",
+      "name": "April",
+      "breed": "Black Labrador Retriever",
+      "gender": "Fixed female",
+      "age": {
+        "year": 1,
+        "month": 0,
+        "ageStr": "1 year (estimated)"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "April is an older puppy from Texas, who came to us from a flight on \"Dog is my Copilot\". She is friendly but has not been socialized with people so she needs some one who has the patience and time to show her what a good home life can be like. With caring and loving people she can slid into a happy and good dog. Good news, my adoption is $125 for the back in black special! If you would like to meet her, come on in today!"
+    },
+    {
+      "shCode": "2017-33519",
+      "image": "http://www.cachehumane.org/data/pics/2017-33519_th.jpg",
+      "name": "Aria",
+      "breed": "Labrador Mix",
+      "gender": "Fixed female",
+      "age": {
+        "year": 0,
+        "month": 4,
+        "ageStr": "0 years, 4 months (estimated)"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "Aria is an older puppy from Texas, who came to us from a flight on \"Dog is my Copilot\". She is friendly but has not been socialized with people so she needs some one who has the patience and time to show her what a good home life can be like. With caring and loving people she can become a happy and good dog. Do you think you would like to be my person?"
+    },
+    {
+      "shCode": "2017-33584",
+      "image": "http://www.cachehumane.org/data/pics/2017-33584_th.jpg",
+      "name": "Bo",
+      "breed": "Red Heeler",
+      "gender": "Fixed male",
+      "age": {
+        "year": 2,
+        "month": 0,
+        "ageStr": "2 years (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "Bo is a calm and sweet boy. He like to be around people and dogs. He would be a great dog for a family in a smaller home. If you want a nice dog who can give excitement to your home, come in and meet this dog today."
+    },
+    {
+      "shCode": "2017-33040",
+      "image": "http://www.cachehumane.org/data/pics/2017-33040_th.jpg",
+      "name": "Buddha",
+      "breed": "Labrador Retriever/Pointer",
+      "gender": "Fixed male",
+      "age": {
+        "year": 2,
+        "month": 6,
+        "ageStr": "2 years, 6 months"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "Buddha, will bring the Zen out in you. He is the perfect dog to train to retrieve something or point out something you want to find. He can help with so much you would never want him to go away. Are you looking for a smart energized pooch? He's the one for you!  Good news he is part of our back in black special so his adoption fee is $125."
+    },
+    {
+      "shCode": "2017-33190",
+      "image": "http://www.cachehumane.org/data/pics/2017-33190_th.jpg",
+      "name": "Chevy",
+      "breed": "Doberman Pinscher/American Staffordshire Terrier",
+      "gender": "Fixed male",
+      "age": {
+        "year": 3,
+        "month": 1,
+        "ageStr": "3 years, 1 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "No",
+      "goodWithChildren": "Yes",
+      "bio": "Chevy is a calm and laid back boy. He is out of the puppy stage and is ready to find a forever home. He is shy with strangers until properly introduced but is very sweet otherwise. He is friendly and in the past he has slept on the children's bed and he enjoys watching over them at night. He has had personal training for some basic commands and is smart so he learns easily. He loves car rides and camping with the family. Are you looking for a calm buddy who can help you feel safe? Come and meet him today."
+    },
+    {
+      "shCode": "2017-33067",
+      "image": "http://www.cachehumane.org/data/pics/2017-33067_th.jpg",
+      "name": "Clay",
+      "breed": "Labrador Retriever/Weimaraner",
+      "gender": "Fixed male",
+      "age": {
+        "year": 8,
+        "month": 1,
+        "ageStr": "8 years, 1 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Yes",
+      "goodWithChildren": "Unknown",
+      "bio": "I am Clay! I have had a interesting life and wish I could tell you about it. I have a relaxed personality, I have a great smile and alls I want is some loving. I enjoy playing and walking around to explore but mostly I would like to just sit back and hang out with you. When things get too busy I get excited, so a calmer life would be nice for me. To let you know I need to go outside I will pace or wiggle around. I like to play with other dogs as long as they are respectful of my space. I would be a great dog for someone who wants some company around the yard and house. Even though I am seasoned to the world I have lots of life to live and I want to live it with you! Do you think I would fit with your lifestyle? Let's find out."
+    },
+    {
+      "shCode": "2017-33151",
+      "image": "http://www.cachehumane.org/data/pics/2017-33151_th.jpg",
+      "name": "Coley",
+      "breed": "Red Heeler/Pharaoh Hound",
+      "gender": "Fixed female",
+      "age": {
+        "year": 6,
+        "month": 1,
+        "ageStr": "6 years, 1 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": "Coley is such a sweet girl! She is cautious about things going on around her at times, but she is sure of herself and will let you know how she is feeling. We are still getting to know her likes but we do know that she loves people and will be great for a calm home where she can be active and given confidence. Is an older dog best for you? She would be a wonderful fit."
+    },
+    {
+      "shCode": "2017-33496",
+      "image": "http://www.cachehumane.org/data/pics/2017-33496_th.jpg",
+      "name": "Daisy",
+      "breed": "Labrador Retriever",
+      "gender": "Fixed female",
+      "age": {
+        "year": 2,
+        "month": 0,
+        "ageStr": "2 years"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Yes",
+      "goodWithChildren": "Unknown",
+      "bio": "Hello, my name is Daisy. I am a purebred black Labrador. I am a nice girl who will lean against you for you to pet me, also I am a goofy girl who will do a little dance for you at times. I want to learn from you so, I will watch you for your approval. Kids are so exciting for me, so little kids may be too much for me with out the right guidance. I was surrendered, because my previous family didn't have enough time to take me on as many walks as I needed but they loved me and wanted a better life for me. So I am here to find a new family, who has time to train me, take me on walks, and to care for me. Are you the one who wants to train me and spend time with me? Come down to do a meet and greet with me today!"
+    },
+    {
+      "shCode": "2012-13139",
+      "image": "http://www.cachehumane.org/data/pics/2012-13139_th.jpg",
+      "name": "Duke",
+      "breed": "Border Collie",
+      "gender": "Fixed male",
+      "age": {
+        "year": 8,
+        "month": 3,
+        "ageStr": "8 years, 3 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "No",
+      "bio": "Duke is one great border collie. He enjoys being in a calmer home and with respectful older children. He is sweet and loving. He will rub on your leg to show he likes you. He likes to chew on ropes and balls. He does alright with other dogs, but he prefers to be left alone. He does have energy and would like to follow you around your home and yard. If he seems like a dog you would like, come in and meet him today!"
+    },
+    {
+      "shCode": "2017-33524",
+      "image": "http://www.cachehumane.org/data/pics/2017-33524_th.jpg",
+      "name": "Flower",
+      "breed": "border collie/lab mix",
+      "gender": "Fixed female",
+      "age": {
+        "year": 1,
+        "month": 0,
+        "ageStr": "1 year (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": "April is an older puppy from Texas, who came to us from a flight on \"Dog is my Copilot\". She is friendly but has not been socialized with people so she needs some one who has the patience and time to show her what a good home life can be like. With caring and loving people she can blossom into a happy and good dog. Do you think you would like to be my person?"
+    },
+    {
+      "shCode": "2017-33598",
+      "image": "http://www.cachehumane.org/data/pics/2017-33598_th.jpg",
+      "name": "Frodo",
+      "breed": "Poodle",
+      "gender": "Fixed male",
+      "age": {
+        "year": 1,
+        "month": 0,
+        "ageStr": "1 year (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": "Frodo is unsure of the change but he wants to be loved and cared for. It may take some coaxing with treats and taking some time but we know that he can be a fun loving boy who is a great part of your family. Come in and see if he will warm up to you."
+    },
+    {
+      "shCode": "2017-32766",
+      "image": "http://www.cachehumane.org/data/pics/2017-32766_th.jpg",
+      "name": "Haven",
+      "breed": "Labrador Mix",
+      "gender": "Fixed female",
+      "age": {
+        "year": 2,
+        "month": 8,
+        "ageStr": "2 years, 8 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "No",
+      "goodWithChildren": "Yes",
+      "bio": "Oh Thank Haven, for this wonderful dog! Haven is a good balance of medium to high energy lady. She previously lived around children, dogs, and livestock. She was a working dog in Idaho before and is a good listener. Cats and chaos are too exciting for her so a calmer environment is best. She is a great protector and wants the approval of her humans. If you want a great loyal dog, check out this one today!"
+    },
+    {
+      "shCode": "2017-33066",
+      "image": "http://www.cachehumane.org/data/pics/2017-33066_th.jpg",
+      "name": "Jenny (Penny)",
+      "breed": "German Shorthaired Pointer/Border Collie",
+      "gender": "Fixed female",
+      "age": {
+        "year": 1,
+        "month": 4,
+        "ageStr": "1 year, 4 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "No",
+      "goodWithChildren": "Yes",
+      "bio": "Hey, I'm Jenny! I absolutely LOVE to run and play! My favorites are playing with tennis balls and running with other dogs, but I'm also great at entertaining myself given enough space. I also love cuddling up to people and hanging out. I may seem quiet and reserved at first but once I am comfortable, watch me amaze you!"
+    },
+    {
+      "shCode": "2017-32900",
+      "image": "http://www.cachehumane.org/data/pics/2017-32900_th.jpg",
+      "name": "Jersey",
+      "breed": "Labrador Retriever",
+      "gender": "Fixed female",
+      "age": {
+        "year": 2,
+        "month": 2,
+        "ageStr": "2 years, 2 months"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "Jersey is still a young dog. She loves balls and will play fetch until the sun goes down. She was in a home with children, and chickens (outside), she was kept outside and is mostly house broken but still learning the manners she needs with a home. She is super smart and can learn quickly. She is very playful and enjoys running through water very much. Does she sound like a dog you could fall in love with? Meet her today to find out!"
+    },
+    {
+      "shCode": "2017-33520",
+      "image": "http://www.cachehumane.org/data/pics/2017-33520_th.jpg",
+      "name": "John Snow",
+      "breed": "Black Labrador Retriever/Great Dane",
+      "gender": "Fixed male",
+      "age": {
+        "year": 1,
+        "month": 3,
+        "ageStr": "1 year, 3 months (estimated)"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "John Snow is an older puppy from Texas, who came to us from a flight on \"Dog is my Copilot\". He has a bouncy and fun personality. He is friendly but needs some one who has the patience and time to show him what a good home life can be like. With caring and loving people he can grow into a happy and good dog. Do you think you would like to be my person?"
+    },
+    {
+      "shCode": "2017-32531",
+      "image": "http://www.cachehumane.org/data/pics/2017-32531_th.jpg",
+      "name": "Klipper (Duke)",
+      "breed": "McNab",
+      "gender": "Fixed male",
+      "age": {
+        "year": 2,
+        "month": 3,
+        "ageStr": "2 years, 3 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "No",
+      "goodWithChildren": "No",
+      "bio": "Klipper is a great dog with tons of youthful energy and a strong personality.  He enjoys a good pet and some play time with balls and other dogs with similar personality. With his high energy level and size he does best with adults, and would be great with a lot of space to run and jump. He does need consistent training, but he is smart and eager to please. Come see if he is the right dog for you today!"
+    },
+    {
+      "shCode": "2017-33515",
+      "image": "http://www.cachehumane.org/data/pics/2017-33515_th.jpg",
+      "name": "Lawrence",
+      "breed": "Rat Terrier",
+      "gender": "Fixed male",
+      "age": {
+        "year": 9,
+        "month": 0,
+        "ageStr": "9 years (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": "Lawrenece is an older dog from Texas, who came to us from a flight on \"Dog is my Copilot\". He is friendly but needs some loving from people. He really likes treats and toys. He enjoys being with people, and he wants to find a home with older people. He would like a home that has lower energy and a calm environment. Do you have the home he is looking for? Come and meet him today!"
+    },
+    {
+      "shCode": "2017-33410",
+      "image": "http://www.cachehumane.org/data/pics/2017-33410_th.jpg",
+      "name": "Lillie",
+      "breed": "Staffordshire Bull Terrier",
+      "gender": "Fixed female",
+      "age": {
+        "year": 1,
+        "month": 0,
+        "ageStr": "1 year"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": ""
+    },
+    {
+      "shCode": "2017-33000",
+      "image": "http://www.cachehumane.org/data/pics/2017-33000_th.jpg",
+      "name": "Luke (Duke)",
+      "breed": "Akbash/Great Pyrenees",
+      "gender": "Fixed male",
+      "age": {
+        "year": 1,
+        "month": 1,
+        "ageStr": "1 year, 1 months (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "This sweet Akbash mix is good with children and is a giant cuddle bug.  Come and meet this gentle giant today."
+    },
+    {
+      "shCode": "2017-33506",
+      "image": "http://www.cachehumane.org/data/pics/2017-33506_th.jpg",
+      "name": "Mac (Max)",
+      "breed": "Australian Shepherd",
+      "gender": "Fixed male",
+      "age": {
+        "year": 5,
+        "month": 0,
+        "ageStr": "5 years (estimated)"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": ""
+    },
+    {
+      "shCode": "2017-33065",
+      "image": "http://www.cachehumane.org/data/pics/2017-33065_th.jpg",
+      "name": "Marilyn Monroe",
+      "breed": "Great Pyrenees",
+      "gender": "Fixed female",
+      "age": {
+        "year": 2,
+        "month": 1,
+        "ageStr": "2 years, 1 months (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "No",
+      "goodWithChildren": "Unknown",
+      "bio": "Meet Marilyn Monroe, a sweet and loving lady. She is calm and courteous when walking on a leash. She enjoys finding some cool dirt and sprawling in the sun. She has had a lonely life in the mountains in the past but she is enjoying her life with human companions. She is quite big and would love some land to roam, some sheep to protect, and some humans to love her.  Does she interest you? If so come to our shelter and meet her, to see if she is the right fit for your home."
+    },
+    {
+      "shCode": "2016-29595",
+      "image": "http://www.cachehumane.org/data/pics/2016-29595_th.jpg",
+      "name": "Max",
+      "breed": "Coonhound",
+      "gender": "Fixed male",
+      "age": {
+        "year": 2,
+        "month": 9,
+        "ageStr": "2 years, 9 months"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": "Hello, I am Max! I am a friendly young dog with a fun loving personality. I like treats and rewards and have had some training and basic commands. I love to bounce around and look at everything I can. I have not had much socialization but I am young and willing to learn. Do you need a hunting dog? I am your man!!"
+    },
+    {
+      "shCode": "2017-33536",
+      "image": "http://www.cachehumane.org/data/pics/2017-33536_th.jpg",
+      "name": "Oakley",
+      "breed": "German Shepherd Dog/Bloodhound",
+      "gender": "Fixed female",
+      "age": {
+        "year": 1,
+        "month": 2,
+        "ageStr": "1 year, 2 months"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Yes",
+      "goodWithChildren": "Yes",
+      "bio": ""
+    },
+    {
+      "shCode": "2017-32727",
+      "image": "http://www.cachehumane.org/data/pics/2017-32727_th.jpg",
+      "name": "Oreo",
+      "breed": "Pointer/Bluetick Coonhound",
+      "gender": "Fixed male",
+      "age": {
+        "year": 3,
+        "month": 3,
+        "ageStr": "3 years, 3 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "No",
+      "goodWithChildren": "Yes",
+      "bio": "Are you looking for a playful pup that's great with kids? Look no further, Oreo is here! Kids and other dogs are so exciting and fun for me. I really enjoy being with people and absorbing all that's around me! I would do better with a bit more obedience training, but with my will to learn and please people it will be a snap. Come in and see if I am the pup for you!"
+    },
+    {
+      "shCode": "2017-33349",
+      "image": "http://www.cachehumane.org/data/pics/2017-33349_th.jpg",
+      "name": "Owen",
+      "breed": "Schnauzer",
+      "gender": "Fixed male",
+      "age": {
+        "year": 9,
+        "month": 2,
+        "ageStr": "9 years, 2 months"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Yes",
+      "goodWithChildren": "Yes",
+      "bio": "Hi I am Owen, I would like a home with older children and people. I like a calm environment and not too many people coming in and out. I will go to the door to let you know I need to go outside. I walk well on a leash and know basic commands. I really enjoy stuffed animals and balls to chew on. If you think that you would be a good family for me, come and meet me!"
+    },
+    {
+      "shCode": "D2009321",
+      "image": "http://www.cachehumane.org/data/pics/D2009321_th.jpg",
+      "name": "Penny",
+      "breed": "Husky/Terrier",
+      "gender": "Fixed female",
+      "age": {
+        "year": 9,
+        "month": 0,
+        "ageStr": "9 years"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "No",
+      "goodWithChildren": "Yes",
+      "bio": "Penny is a sweet, goofy husky mix! She may be a touch older, but don't let this fool you, she is as energetic as can be! She loves children of all ages and is very gentle with them. Small dogs and cats are too exciting for her and she needs to go to a home without any small animals, and where her prey-drive can be managed while she is out and about. Penny is housetrained and knows some basic commands. This girl is ready for her new life and can't wait to meet her new fur-ever family! Come meet this sweet girl today!"
+    },
+    {
+      "shCode": "2017-33509",
+      "image": "http://www.cachehumane.org/data/pics/2017-33509_th.jpg",
+      "name": "Ruckus",
+      "breed": "Shepherd",
+      "gender": "Fixed male",
+      "age": {
+        "year": 1,
+        "month": 0,
+        "ageStr": "1 year (estimated)"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "Ruckus is an older puppy from Texas, who came to us from a flight on \"Dog is my Copilot\". He is friendly but has not been socialized with people so she needs some one who has the patience and time to show him what a good home life can be like. With caring and loving people he can slid into a happy and good dog. Do you think you would like to be my person?"
+    },
+    {
+      "shCode": "2017-32670",
+      "image": "http://www.cachehumane.org/data/pics/2017-32670_th.jpg",
+      "name": "Sasha",
+      "breed": "American Staffordshire Terrier",
+      "gender": "Fixed female",
+      "age": {
+        "year": 6,
+        "month": 3,
+        "ageStr": "6 years, 3 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "Sasha is a happy and energetic dog. She enjoys long walks, chew toys, and children. She has had a hard life in the past so would need a calm home to relax in. She will lay on her back to scratch an itch, and she will let you know when she wants to go inside and relax. Is your home ready for a dog who has energy? Come in and see if she is right for you."
+    },
+    {
+      "shCode": "2017-33521",
+      "image": "http://www.cachehumane.org/data/pics/2017-33521_th.jpg",
+      "name": "Shiloh",
+      "breed": "Terrier/Spitz",
+      "gender": "Fixed female",
+      "age": {
+        "year": 0,
+        "month": 10,
+        "ageStr": "0 years, 10 months (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": ""
+    },
+    {
+      "shCode": "2017-33055",
+      "image": "http://www.cachehumane.org/data/pics/2017-33055_th.jpg",
+      "name": "Simba",
+      "breed": "American Staffordshire Terrier",
+      "gender": "Fixed male",
+      "age": {
+        "year": 1,
+        "month": 1,
+        "ageStr": "1 year, 1 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": "Hi I am Simba, I am a simple man who just wants toys, fun, and love. I can be calm when I have had my exercise. I want to be your buddy who can be part of the family."
+    },
+    {
+      "shCode": "2017-33523",
+      "image": "http://www.cachehumane.org/data/pics/2017-33523_th.jpg",
+      "name": "Slick",
+      "breed": "Labrador Mix/Border Collie",
+      "gender": "Fixed male",
+      "age": {
+        "year": 0,
+        "month": 3,
+        "ageStr": "0 years, 3 months (estimated)"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Yes",
+      "goodWithChildren": "Yes",
+      "bio": "Slick is an older puppy from Texas, who came to us from a flight on \"Dog is my Copilot\". He is friendly but has not been socialized with people so he needs some one who has the patience and time to show him what a good home life can be like. With caring and loving people he can slid into a happy and good dog. Do you think you would like to be my person?"
+    },
+    {
+      "shCode": "2017-33406",
+      "image": "http://www.cachehumane.org/data/pics/2017-33406_th.jpg",
+      "name": "Sylvia",
+      "breed": "Chihuahua/Daschund mix",
+      "gender": "Fixed female",
+      "age": {
+        "year": 6,
+        "month": 1,
+        "ageStr": "6 years, 1 months (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Unknown",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Unknown",
+      "bio": "Sylvia is a sweet and loving girl. She will be shy at first meeting and in  busy environments, but she warms up quickly and will trust you forever if you give her treats and love.  She probably has not been alone much so she would be great with someone who can be with her often. She is such a good girl; she deserves to be part of a family who can give her the attention she will need. Do you need a pup like her? Come in and see her today!"
+    },
+    {
+      "shCode": "2017-33265",
+      "image": "http://www.cachehumane.org/data/pics/2017-33265_th.jpg",
+      "name": "Thor",
+      "breed": "Labrador Mix",
+      "gender": "Fixed male",
+      "age": {
+        "year": 0,
+        "month": 8,
+        "ageStr": "0 years, 8 months (estimated)"
+      },
+      "housetrained": "Unknown",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": ""
+    },
+    {
+      "shCode": "2017-32349",
+      "image": "http://www.cachehumane.org/data/pics/2017-32349_th.jpg",
+      "name": "Tim",
+      "breed": "Labrador Retriever",
+      "gender": "Fixed male",
+      "age": {
+        "year": 1,
+        "month": 4,
+        "ageStr": "1 year, 4 months"
+      },
+      "housetrained": "No",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Yes",
+      "goodWithChildren": "Yes",
+      "bio": "Hi there! I am Tim, a typical Labrador that is full of life! I love jumping all around, so I can see many different views of my surroundings! I am good on a leash, and will walk by your side if you talk to me. I love to play and explore new things so I would be great to make a great adventure buddy! I have been kept on a farm outside most of my life, so I am learning how good life can be. I enjoy water, retrieving, and tug-a-war games! I would do great with a home where I have room to run, and a job to do!  Good news, my adoption fee is $125. Could you be the one for me? Come and see!"
+    },
+    {
+      "shCode": "2016-29800",
+      "image": "http://www.cachehumane.org/data/pics/2016-29800_th.jpg",
+      "name": "Tony",
+      "breed": "American Staffordshire Terrier",
+      "gender": "Fixed male",
+      "age": {
+        "year": 3,
+        "month": 11,
+        "ageStr": "3 years, 11 months (estimated)"
+      },
+      "housetrained": "Yes",
+      "goodWithDogs": "Yes",
+      "goodWithCats": "Unknown",
+      "goodWithChildren": "Yes",
+      "bio": ""
+    }
+  ]
+}
